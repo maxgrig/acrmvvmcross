@@ -44,6 +44,15 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml" />
+    <Reference Include="Xamarin.Android.Support.v4">
+      <HintPath>..\..\..\packages\ZXing.Net.Mobile.1.4.6\lib\MonoAndroid\Xamarin.Android.Support.v4.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.monoandroid">
+      <HintPath>..\..\..\packages\ZXing.Net.Mobile.1.4.6\lib\MonoAndroid\zxing.monoandroid.dll</HintPath>
+    </Reference>
+    <Reference Include="ZXing.Net.Mobile">
+      <HintPath>..\..\..\packages\ZXing.Net.Mobile.1.4.6\lib\MonoAndroid\ZXing.Net.Mobile.dll</HintPath>
+    </Reference>
     <Reference Include="System.Net">
       <HintPath>..\..\..\packages\MvvmCross.PortableSupport.3.2.1\lib\MonoAndroid\System.Net.dll</HintPath>
     </Reference>
@@ -67,15 +76,6 @@
     </Reference>
     <Reference Include="Cirrious.MvvmCross.Localization">
       <HintPath>..\..\..\packages\MvvmCross.HotTuna.CrossCore.3.2.1\lib\MonoAndroid\Cirrious.MvvmCross.Localization.dll</HintPath>
-    </Reference>
-    <Reference Include="Xamarin.Android.Support.v4">
-      <HintPath>..\..\..\packages\ZXing.Net.Mobile.1.4.6\lib\MonoAndroid\Xamarin.Android.Support.v4.dll</HintPath>
-    </Reference>
-    <Reference Include="zxing.monoandroid">
-      <HintPath>..\..\..\packages\ZXing.Net.Mobile.1.4.6\lib\MonoAndroid\zxing.monoandroid.dll</HintPath>
-    </Reference>
-    <Reference Include="ZXing.Net.Mobile">
-      <HintPath>..\..\..\packages\ZXing.Net.Mobile.1.4.6\lib\MonoAndroid\ZXing.Net.Mobile.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
